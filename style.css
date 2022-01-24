@@ -90,12 +90,12 @@ main {
   color: var(--dark-blue);
 }
 
-.card-plan a {
+.change-plan-link {
   font-weight: 700;
   transition: all 0.5s;
 }
 
-.card-plan a:hover {
+.change-plan-link:hover {
   text-decoration: none;
   color: var(--desaturated-blue);
 }
