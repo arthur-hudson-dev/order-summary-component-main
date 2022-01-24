@@ -30,6 +30,7 @@ main {
 }
 
 .card-content {
+  margin: 0 1rem;
   background: white;
   border-radius: 1rem;
   text-align: center;
@@ -166,8 +167,5 @@ footer {
   html {
     background: var(--pale-blue) url("images/pattern-background-mobile.svg")
       no-repeat;
-  }
-  .card-content {
-    margin: 0 1rem;
   }
 }
