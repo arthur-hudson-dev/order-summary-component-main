@@ -162,12 +162,12 @@ footer {
   align-items: center;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 480px) {
   html {
     background: var(--pale-blue) url("images/pattern-background-mobile.svg")
       no-repeat;
   }
   .card-content {
-    max-width: 300px;
+    margin: 0 1rem;
   }
 }
